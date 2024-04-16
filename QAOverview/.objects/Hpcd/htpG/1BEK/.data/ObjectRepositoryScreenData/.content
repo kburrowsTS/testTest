@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="3S2LIHHfbUqLuRVpjT97IA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAItSURBVDhPjZNBSFNxHMd3CTp5qC5B0KHwkpS3DIJdKoLKQVJEmBchESo8eLBY6RploR4Ci42gaIU6QioSrXco1qZzzdpci6Sx9lbOualbbk0zcd/e9//e0GGTfvDjd3j/7+d9f9/3/joWgE05OVyX9jivs3/NZ0yO+EKbe3rhYiK9qFeel4mDpUo5sOXHE6vffWw/Rk8cwJeOVjS/iaC8J5w/8jKabX2ffB2c+13NF2mS4iIgYukMfKg9itHqg/DXn8SjvkHssIVQaf8mQJZgKuOI5YzK2c2abLUKAG+NHsOH9oGTgAsjKdRKk2j/OCdAdMO1NNlqqYCugP/8KYydOQzO8KAN36c8cMeSAqCIhaNGR1xeyWOPJlWr4IAZ0AFzmH1+GXi3G8vBJgFpGk6gqj8iZujn0jVNqlbBwXjjWeGAc/ZZC/LSVtHZ0B0MyfMwj81A/yIK6+e0VJTFOgdKkATQAQErXoMAMA+u0TyS+KRotmnyNRko6TNAzpmhbsS8NuQ8DcD4Odi/JsXby+5PlAKoX4EuuIbvYS8uGR7ku1vscPW/QteVAdzsDQgXJVegkAHyf5BuWFFTcQuGcjNO772N47tMYhIUn87+K8TOwNvK7WA7q3YKAAUErO27xgH5z9JyhSZV638AdGCse7w44Zss9SOtB3AFCjnNDX0ZnzN8tWj3QhHAy8T9GSLDdN1TQzTV96SfWlxSNJTc8DIVXWd2So610e7G11mn+wuoPBuijE7VjAAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='311 - Report an Issue' /&gt;" Title="311 - Report an Issue" Url="https://qa.denvergov.org/Online-Services-Hub/Report-an-Issue/issue/new-report">
+      <imageRef attrName="InformativeScreenshot" originalValue="4fef226c53d27a0f6b886db1ec62e684.jpg" xmlns="">0RcRTcJPjaEOOuKpfPUZ8Bg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

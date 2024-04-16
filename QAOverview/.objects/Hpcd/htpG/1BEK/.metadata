@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome: 311 - Report an Issue",
+  "Type": "Screen",
+  "Id": "1BEK4eDFMEm0Lzpar47hGg",
+  "Reference": "7s3RqNelh0u0B4PcDejEGw/1BEK4eDFMEm0Lzpar47hGg",
+  "ParentRef": "7s3RqNelh0u0B4PcDejEGw/htpGKAhleUixwDeSaGgsiQ",
+  "Created": "2023-11-14T21:06:29.6005196Z",
+  "Updated": "2023-11-14T21:06:29.6005196Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

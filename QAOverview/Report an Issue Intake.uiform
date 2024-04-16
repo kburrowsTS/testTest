@@ -1,0 +1,158 @@
+﻿{
+  "Metadata": {
+    "Id": "624a7763-441a-4070-a7db-98b0fa39a5f1",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "Report an Issue Intake",
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "label": "Category",
+        "widget": "html5",
+        "placeholder": "Select a Category",
+        "tableView": false,
+        "data": {
+          "values": [
+            {
+              "label": "Encampment Reporting",
+              "value": "encampmentReporting"
+            },
+            {
+              "label": "Pothole",
+              "value": "pothole"
+            },
+            {
+              "label": "Weeds & Vegetation",
+              "value": "weedsVegetation"
+            },
+            {
+              "label": "Neighborhood Issue",
+              "value": "neighborhoodIssue"
+            },
+            {
+              "label": "Snow on Sidewalk",
+              "value": "snowOnSidewalk"
+            },
+            {
+              "label": "Illegal Parking",
+              "value": "illegalParking"
+            },
+            {
+              "label": "Police: Non-emergency",
+              "value": "policeNonEmergency"
+            },
+            {
+              "label": "Illegal Dumping",
+              "value": "illegalDumping"
+            },
+            {
+              "label": "No Heat No Water No Electricity",
+              "value": "noHeatNoWaterNoElectricity"
+            },
+            {
+              "label": "Graffiti",
+              "value": "graffiti"
+            },
+            {
+              "label": "Animal Complaint",
+              "value": "animalComplaint"
+            },
+            {
+              "label": "Trash/Recycle/Compost (Issue)",
+              "value": "trashRecycleCompostIssue"
+            },
+            {
+              "label": "Other",
+              "value": "other"
+            },
+            {
+              "label": "Abandoned Vehicle",
+              "value": "abandonedVehicle"
+            },
+            {
+              "label": "Damaged/Fallen Tree",
+              "value": "damagedFallenTree"
+            },
+            {
+              "label": "Fireworks",
+              "value": "fireworks"
+            },
+            {
+              "label": "Shared Micromobility",
+              "value": "sharedMicromobility"
+            }
+          ]
+        },
+        "key": "category",
+        "type": "select",
+        "input": true
+      },
+      {
+        "label": "Address Type",
+        "optionsLabelPosition": "right",
+        "inline": false,
+        "tableView": false,
+        "values": [
+          {
+            "label": "Address",
+            "value": "address",
+            "shortcut": ""
+          },
+          {
+            "label": "Intersection",
+            "value": "intersection",
+            "shortcut": ""
+          },
+          {
+            "label": "Current Location",
+            "value": "currentLocation",
+            "shortcut": ""
+          }
+        ],
+        "key": "addressType",
+        "type": "radio",
+        "input": true
+      },
+      {
+        "label": "Submit As?",
+        "optionsLabelPosition": "right",
+        "inline": false,
+        "tableView": false,
+        "values": [
+          {
+            "label": "Logged In",
+            "value": "loggedIn",
+            "shortcut": ""
+          },
+          {
+            "label": "Logged Out",
+            "value": "loggedOut",
+            "shortcut": ""
+          },
+          {
+            "label": "Anonymous",
+            "value": "anonymous",
+            "shortcut": ""
+          }
+        ],
+        "key": "submitAs",
+        "type": "radio",
+        "input": true
+      },
+      {
+        "label": "Submit",
+        "tableView": false,
+        "key": "submit",
+        "type": "button",
+        "input": true,
+        "saveOnEnter": true
+      }
+    ]
+  }
+}
